@@ -1,6 +1,4 @@
 # pig-game
-Pig Game is a dice-based tabletop game where players roll to accumulate points, aiming for a target score (usually 100). Rolling a 1 wipes out current turn points. Balancing risk and reward, the first to reach the goal wins. Simple, engaging, and perfect for family gatherings.
-"Pig Game: A Dice-Rolling Adventure"
 
 The Pig Game is an engaging and exciting dice-based tabletop game that combines luck, strategy, and a dash of risk-taking. It's a popular pastime for players of all ages and has been enjoyed by families, friends, and casual gamers alike.
 
